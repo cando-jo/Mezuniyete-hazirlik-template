@@ -1,5 +1,7 @@
-# ai-ve-discord
-# ai-ve-discord
-# sat-18-m7l2
-# kodland-m7l2
-# Mezuniyete-hazirlik-template
+
+# Mezuniyete Hazırlık Şablonu
+
+Bu şablondan yola çıkarak bitirme projelerinizi yapabilirsiniz.
+Minimım 5 Yapay Zeka modeli ve 5 discord komutu. Toplamda 10 komut olması gerekiyor.
+
+İyi şanslar!
