@@ -73,4 +73,4 @@ async def rastgele_film(ctx):
     filmler = ["Twilight", "Vikings", "Breaking bad", "Prison Break"]
     await ctx.send(random.choice(filmler))
 
-bot.run('MTE2MjAxNjYzNDk5NTc1NzE1Nw.GQ0KiO.dyDRKFYAUKQz3JWEb1pzIsL1rgbjLgC_SMoAq4')
+bot.run('TOKEN')
